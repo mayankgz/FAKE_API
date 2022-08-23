@@ -1,8 +1,16 @@
 {
-  "anime":[
-      {"name":"demon slayer","url":"https://images.app.goo.gl/z8U2ATBHpo4d8mMQA"},
-      {"name":"naruto","url":"https://images.app.goo.gl/bADxVX9F9Wg9jgK76"},
-      {"name":"nezuko","url":"https://images.app.goo.gl/PbWSCAqnGCKqJvBW6"}
-    ]
+	"anime": [{
+			"name": "demon slayer",
+			"url": "https://images.app.goo.gl/z8U2ATBHpo4d8mMQA"
+		},
+		{
+			"name": "naruto",
+			"url": "https://images.app.goo.gl/bADxVX9F9Wg9jgK76"
+		},
+		{
+			"name": "nezuko",
+			"url": "https://images.app.goo.gl/PbWSCAqnGCKqJvBW6"
+		}
+	]
 
 }
